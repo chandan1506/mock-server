@@ -1,37 +1,46 @@
 {
-    "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ],
-
-    "employee": [
-        {
-            "id": 1,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ]
+  "dogs": [
+    {
+      "name": "sonu",
+      "age": "22",
+      "place": "patna",
+      "gender": "male",
+      "id": 98
+    },
+    {
+      "name": "ck",
+      "age": "23",
+      "place": "bihar",
+      "gender": "male",
+      "id": 72
+    },
+    {
+      "name": "neha",
+      "age": "23",
+      "place": "bihar",
+      "gender": "female",
+      "id": 41
+    },
+    {
+      "name": "priti",
+      "age": "20",
+      "place": "bihar",
+      "gender": "female",
+      "id": 78
+    },
+    {
+      "name": "ff",
+      "age": "18",
+      "place": "bihar",
+      "gender": "male",
+      "id": 34
+    },
+    {
+      "name": "tommy",
+      "age": "10",
+      "place": "delhi",
+      "gender": "male",
+      "id": 92
+    }
+  ]
 }
